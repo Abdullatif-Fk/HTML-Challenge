@@ -100,7 +100,7 @@ body {
     overflow: hidden;
   }
   
-  /* Style the links inside the navigation bar */
+  
   .topnav a {
     float: left;
     color: #f2f2f2;
@@ -110,13 +110,13 @@ body {
     font-size: 17px;
   }
   
-  /* Change the color of links on hover */
+  
   .topnav a:hover {
     background-color: #ddd;
     color: black;
   }
   
-  /* Add a color to the active/current link */
+  
   .topnav a.active {
     background-color: #4d2d45;
     color: white;
@@ -130,7 +130,7 @@ body {
     padding-bottom: 20px;
     
   }
-  footer > a{
+  footer > p{
 
     color: white;
     align-items: center;
